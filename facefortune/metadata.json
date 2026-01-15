@@ -1,0 +1,7 @@
+{
+  "name": "天机面相 - AI 命运指南",
+  "description": "基于 AI 视觉识别的面相分析与运势预测工具。通过当下的自拍照与特定事项，为您提供避凶趋吉的深度指引。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

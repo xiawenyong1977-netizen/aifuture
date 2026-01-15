@@ -1,0 +1,8 @@
+
+{
+  "name": "VoiceTrack 企业语音审计",
+  "description": "专为企业内部定制的语音通话记录审计工具，通过麦克风活动状态监测通话时长。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

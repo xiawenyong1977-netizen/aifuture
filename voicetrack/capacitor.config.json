@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.company.voicetrack",
+  "appName": "VoiceTrack",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
