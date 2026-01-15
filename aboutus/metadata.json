@@ -1,0 +1,8 @@
+{
+  "name": "智语未来 - 官方门户",
+  "description": "深圳市智语未来软件有限公司官方网站，展示芯图相册、心经助读、天机面相、三体游戏及VoiceTrack等前沿AI产品。智承传统，语链未来。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
