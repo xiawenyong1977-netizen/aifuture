@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.xintuxiangce.top/sitemap.xml
+
+# Disallow build directories
+Disallow: /dist/
+Disallow: /node_modules/

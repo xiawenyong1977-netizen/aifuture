@@ -82,7 +82,8 @@ const App: React.FC = () => {
             <img 
               src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1000" 
               className="relative rounded-3xl shadow-2xl border border-white/5"
-              alt="Technology Vision"
+              alt="智语未来 - AI人工智能技术与传统文化融合的科技愿景"
+              loading="lazy"
             />
           </div>
           <div>
